@@ -1,4 +1,5 @@
 PKG_NAME := R-zoo
-URL := http://cran.r-project.org/src/contrib/zoo_1.7-11.tar.gz
+URL := https://cran.r-project.org/src/contrib/zoo_1.8-0.tar.gz
+
 
 include ../common/Makefile.common
