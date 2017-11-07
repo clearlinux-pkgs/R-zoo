@@ -1,0 +1,21 @@
+# This file contains recursive sources that require this package
+R-R6
+R-TTR
+R-car
+R-chron
+R-dynlm
+R-ggplot2
+R-gtools
+R-lme4
+R-lmtest
+R-microbenchmark
+R-mondate
+R-multcomp
+R-pbkrtest
+R-quantmod
+R-quantreg
+R-sandwich
+R-tibble
+R-tis
+R-tseries
+R-xts
