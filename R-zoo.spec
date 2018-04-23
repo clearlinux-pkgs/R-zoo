@@ -4,7 +4,7 @@
 #
 Name     : R-zoo
 Version  : 1.8.1
-Release  : 34
+Release  : 35
 URL      : https://cran.r-project.org/src/contrib/zoo_1.8-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/zoo_1.8-1.tar.gz
 Summary  : S3 Infrastructure for Regular and Irregular Time Series (Z's
