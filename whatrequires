@@ -8,6 +8,8 @@ R-Ecfun
 R-EnvStats
 R-GGally
 R-Hmisc
+R-ICS
+R-ICSNP
 R-Lahman
 R-MCMCpack
 R-NMF
@@ -35,6 +37,7 @@ R-colourpicker
 R-compositions
 R-cowplot
 R-crosstalk
+R-cvTools
 R-ddalpha
 R-dendextend
 R-drc
@@ -80,6 +83,7 @@ R-mvoutlier
 R-party
 R-partykit
 R-pbkrtest
+R-pcaPP
 R-pdfCluster
 R-plm
 R-plotly
@@ -94,6 +98,8 @@ R-rgl
 R-rmarkdown
 R-rms
 R-robCompositions
+R-robustbase
+R-rrcov
 R-rsconnect
 R-rstan
 R-rstanarm

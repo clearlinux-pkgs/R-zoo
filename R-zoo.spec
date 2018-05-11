@@ -4,7 +4,7 @@
 #
 Name     : R-zoo
 Version  : 1.8.1
-Release  : 38
+Release  : 39
 URL      : https://cran.r-project.org/src/contrib/zoo_1.8-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/zoo_1.8-1.tar.gz
 Summary  : S3 Infrastructure for Regular and Irregular Time Series (Z's
@@ -36,11 +36,11 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1524479226
+export SOURCE_DATE_EPOCH=1526074097
 
 %install
 rm -rf %{buildroot}
-export SOURCE_DATE_EPOCH=1524479226
+export SOURCE_DATE_EPOCH=1526074097
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
 export FCFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
@@ -136,4 +136,3 @@ cp ~/.stash/* %{buildroot}/usr/lib64/R/library/*/libs/ || :
 %defattr(-,root,root,-)
 /usr/lib64/R/library/zoo/libs/zoo.so
 /usr/lib64/R/library/zoo/libs/zoo.so.avx2
-/usr/lib64/R/library/zoo/libs/zoo.so.avx512
