@@ -2,6 +2,7 @@
 R-AER
 R-Luminescence
 R-PerformanceAnalytics
+R-RcmdrMisc
 R-TTR
 R-chron
 R-coin
@@ -10,6 +11,7 @@ R-dygraphs
 R-dynlm
 R-expsmooth
 R-forecast
+R-haplo.stats
 R-lfe
 R-lmtest
 R-maxLik
@@ -17,14 +19,17 @@ R-mi
 R-mondate
 R-multcomp
 R-multiwayvcov
+R-mvoutlier
 R-party
 R-plm
 R-quantreg
 R-rasterVis
 R-sandwich
 R-sde
+R-shinystan
 R-smoother
 R-strucchange
+R-systemfit
 R-taxize
 R-timeSeries
 R-tis
