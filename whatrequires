@@ -4,8 +4,10 @@ R-Luminescence
 R-PerformanceAnalytics
 R-RcmdrMisc
 R-TTR
+R-brms
 R-chron
 R-coin
+R-conting
 R-drc
 R-dygraphs
 R-dynlm
@@ -14,7 +16,6 @@ R-forecast
 R-haplo.stats
 R-lfe
 R-lmtest
-R-maxLik
 R-mi
 R-mondate
 R-multcomp
@@ -22,6 +23,7 @@ R-multiwayvcov
 R-mvoutlier
 R-party
 R-plm
+R-quantmod
 R-quantreg
 R-rasterVis
 R-robCompositions
@@ -36,6 +38,7 @@ R-taxize
 R-timeSeries
 R-tis
 R-tseries
+R-varImp
 R-vcd
 R-vioplot
 R-xts
