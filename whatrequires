@@ -10,7 +10,6 @@ R-dygraphs
 R-dynlm
 R-forecast
 R-lmtest
-R-manipulateWidget
 R-mondate
 R-party
 R-plm
@@ -21,10 +20,8 @@ R-sde
 R-strucchange
 R-systemfit
 R-taxize
-R-timeSeries
 R-tis
 R-tseries
 R-varImp
-R-vcd
 R-vioplot
 R-xts
