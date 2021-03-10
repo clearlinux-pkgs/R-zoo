@@ -4,13 +4,10 @@ R-Luminescence
 R-PerformanceAnalytics
 R-TTR
 R-chron
-R-coin
-R-conting
 R-dygraphs
 R-dynlm
 R-forecast
 R-lmtest
-R-mondate
 R-party
 R-plm
 R-quantmod
@@ -20,8 +17,6 @@ R-sde
 R-strucchange
 R-systemfit
 R-taxize
-R-tis
 R-tseries
-R-varImp
 R-vioplot
 R-xts
